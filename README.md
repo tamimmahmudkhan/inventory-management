@@ -1,4 +1,4 @@
-# inventory-management
+# Inventory-management
 Inventory Management System based on Vaadin Flow(10)
 This is a demo Web Application made with Spring Boot. 
 
